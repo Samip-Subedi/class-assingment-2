@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # class_assingment_2
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# class-assingment-2
+>>>>>>> 14018de68cf98e84796701b1e1fb31001572b7ab
